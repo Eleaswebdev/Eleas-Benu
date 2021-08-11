@@ -18,7 +18,7 @@ get_header();
   <!-- /.main start  -->
     <main class="main">
         
-   
+   <!-- home file changes -->
     <!-- ============================
         START BANNER SECTION
     ============================== -->

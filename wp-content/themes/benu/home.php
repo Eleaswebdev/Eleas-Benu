@@ -17,8 +17,7 @@ get_header();
 
   <!-- /.main start  -->
     <main class="main">
-        
-   <!-- home file changes update -->
+     <!-- again as private repo -->   
     <!-- ============================
         START BANNER SECTION
     ============================== -->

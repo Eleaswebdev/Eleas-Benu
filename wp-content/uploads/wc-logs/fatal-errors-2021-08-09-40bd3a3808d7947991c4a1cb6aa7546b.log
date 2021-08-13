@@ -1,0 +1,80 @@
+2021-08-09T14:54:26+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in /Applications/MAMP/htdocs/benu/wp-content/themes/benu/home.php:313
+Stack trace:
+#0 /Applications/MAMP/htdocs/benu/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/benu/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/benu/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/benu/wp-content/themes/benu/home.php on line 313
+
+2021-08-09T14:54:37+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in /Applications/MAMP/htdocs/benu/wp-content/themes/benu/home.php:313
+Stack trace:
+#0 /Applications/MAMP/htdocs/benu/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/benu/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/benu/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/benu/wp-content/themes/benu/home.php on line 313
+
+2021-08-09T15:05:58+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in /Applications/MAMP/htdocs/benu/wp-content/themes/benu/home.php:316
+Stack trace:
+#0 /Applications/MAMP/htdocs/benu/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/benu/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/benu/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/benu/wp-content/themes/benu/home.php on line 316
+
+2021-08-09T15:06:08+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in /Applications/MAMP/htdocs/benu/wp-content/themes/benu/home.php:316
+Stack trace:
+#0 /Applications/MAMP/htdocs/benu/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/benu/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/benu/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/benu/wp-content/themes/benu/home.php on line 316
+
+2021-08-09T15:06:19+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in /Applications/MAMP/htdocs/benu/wp-content/themes/benu/home.php:316
+Stack trace:
+#0 /Applications/MAMP/htdocs/benu/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/benu/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/benu/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/benu/wp-content/themes/benu/home.php on line 316
+
+2021-08-09T15:09:50+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in /Applications/MAMP/htdocs/benu/wp-content/themes/benu/home.php:315
+Stack trace:
+#0 /Applications/MAMP/htdocs/benu/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/benu/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/benu/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/benu/wp-content/themes/benu/home.php on line 315
+
+2021-08-09T15:10:25+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in /Applications/MAMP/htdocs/benu/wp-content/themes/benu/home.php:315
+Stack trace:
+#0 /Applications/MAMP/htdocs/benu/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/benu/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/benu/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/benu/wp-content/themes/benu/home.php on line 315
+
+2021-08-09T15:34:40+00:00 CRITICAL Uncaught Error: Object of class WP_Term could not be converted to string in /Applications/MAMP/htdocs/benu/wp-includes/class-wp-tax-query.php:559
+Stack trace:
+#0 /Applications/MAMP/htdocs/benu/wp-includes/class-wp-tax-query.php(559): array_unique(Array)
+#1 /Applications/MAMP/htdocs/benu/wp-includes/class-wp-tax-query.php(394): WP_Tax_Query->clean_query(Array)
+#2 /Applications/MAMP/htdocs/benu/wp-includes/class-wp-tax-query.php(324): WP_Tax_Query->get_sql_for_clause(Array, Array)
+#3 /Applications/MAMP/htdocs/benu/wp-includes/class-wp-tax-query.php(274): WP_Tax_Query->get_sql_for_query(Array)
+#4 /Applications/MAMP/htdocs/benu/wp-includes/class-wp-tax-query.php(250): WP_Tax_Query->get_sql_clauses()
+#5 /Applications/MAMP/htdocs/benu/wp-includes/class-wp-query.php(2138): WP_Tax_Query->get_sql('wp_posts', 'ID')
+#6 /Applications/MAMP/htdocs/benu/wp-includes/class-wp-query.php(3465): WP_Query->get_posts()
+#7 /Applications/MAMP/htdocs/benu/wp-includes/class-wp-query.php(3576): WP_Query->query(Array)
+#8 /Applications/M in /Applications/MAMP/htdocs/benu/wp-includes/class-wp-tax-query.php on line 559
+
+2021-08-09T16:19:10+00:00 CRITICAL Uncaught Error: Object of class WP_Term could not be converted to string in /Applications/MAMP/htdocs/benu/wp-includes/class-wp-tax-query.php:559
+Stack trace:
+#0 /Applications/MAMP/htdocs/benu/wp-includes/class-wp-tax-query.php(559): array_unique(Array)
+#1 /Applications/MAMP/htdocs/benu/wp-includes/class-wp-tax-query.php(394): WP_Tax_Query->clean_query(Array)
+#2 /Applications/MAMP/htdocs/benu/wp-includes/class-wp-tax-query.php(324): WP_Tax_Query->get_sql_for_clause(Array, Array)
+#3 /Applications/MAMP/htdocs/benu/wp-includes/class-wp-tax-query.php(274): WP_Tax_Query->get_sql_for_query(Array)
+#4 /Applications/MAMP/htdocs/benu/wp-includes/class-wp-tax-query.php(250): WP_Tax_Query->get_sql_clauses()
+#5 /Applications/MAMP/htdocs/benu/wp-includes/class-wp-query.php(2138): WP_Tax_Query->get_sql('wp_posts', 'ID')
+#6 /Applications/MAMP/htdocs/benu/wp-includes/class-wp-query.php(3465): WP_Query->get_posts()
+#7 /Applications/MAMP/htdocs/benu/wp-includes/class-wp-query.php(3576): WP_Query->query(Array)
+#8 /Applications/M in /Applications/MAMP/htdocs/benu/wp-includes/class-wp-tax-query.php on line 559
+

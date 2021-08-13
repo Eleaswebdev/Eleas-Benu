@@ -1,0 +1,8 @@
+2021-08-13T18:53:10+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\eleas-benu\wp-includes\formatting.php:1015
+Stack trace:
+#0 C:\xampp\htdocs\eleas-benu\wp-includes\nav-menu.php(497): wp_specialchars_decode(Object(WP_Error))
+#1 C:\xampp\htdocs\eleas-benu\wp-admin\includes\nav-menu.php(1202): wp_update_nav_menu_item(28, 451, Array)
+#2 C:\xampp\htdocs\eleas-benu\wp-admin\nav-menus.php(414): wp_nav_menu_update_menu_items(28, 'Mega Menu')
+#3 {main}
+  thrown in C:\xampp\htdocs\eleas-benu\wp-includes\formatting.php on line 1015
+

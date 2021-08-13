@@ -1,0 +1,2 @@
+2021-08-12T09:18:41+00:00 CRITICAL Out of memory (allocated 39845888) (tried to allocate 20480 bytes) in C:\xampp\htdocs\eleas-benu\wp-content\plugins\jetpack\modules\theme-tools\content-options.php on line 49
+
